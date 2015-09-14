@@ -1,0 +1,114 @@
+/*
+ * 770gs - 770 Grid System
+ *
+ *  For when you want 12 columns but you don't have 940.
+ *
+ *  Each column is 55 pixels wide, with a 10 pixel gap.
+ */
+
+.gs770 .row
+{
+	margin-left:-10px;
+}
+
+.gs770 .span
+{
+	margin-left:10px;
+}
+
+.gs770 .span1  { width: 55px; }
+.gs770 .span2  { width:120px; }
+.gs770 .span3  { width:185px; }
+.gs770 .span4  { width:250px; }
+.gs770 .span5  { width:315px; }
+.gs770 .span6  { width:380px; }
+.gs770 .span7  { width:445px; }
+.gs770 .span8  { width:510px; }
+.gs770 .span9  { width:575px; }
+.gs770 .span10 { width:640px; }
+.gs770 .span11 { width:705px; }
+.gs770 .span12 { width:770px; }
+
+.gs770 INPUT[type="text"].span1,
+.gs770 INPUT[type="password"].span1,
+.gs770 TEXTAREA.span1
+{
+	width:29px;
+}
+
+.gs770 INPUT[type="text"].span2,
+.gs770 INPUT[type="password"].span2,
+.gs770 TEXTAREA.span2
+{
+	width:94px;
+}
+
+.gs770 INPUT[type="text"].span3,
+.gs770 INPUT[type="password"].span3,
+.gs770 TEXTAREA.span3
+{
+	width:159px;
+}
+
+.gs770 INPUT[type="text"].span4,
+.gs770 INPUT[type="password"].span4,
+.gs770 TEXTAREA.span4
+{
+	width:224px;
+}
+
+.gs770 INPUT[type="text"].span5,
+.gs770 INPUT[type="password"].span5,
+.gs770 TEXTAREA.span5
+{
+	width:289px;
+}
+
+.gs770 INPUT[type="text"].span6,
+.gs770 INPUT[type="password"].span6,
+.gs770 TEXTAREA.span6
+{
+	width:354px;
+}
+
+.gs770 INPUT[type="text"].span7,
+.gs770 INPUT[type="password"].span7,
+.gs770 TEXTAREA.span7
+{
+	width:419px;
+}
+
+.gs770 INPUT[type="text"].span8,
+.gs770 INPUT[type="password"].span8,
+.gs770 TEXTAREA.span8
+{
+	width:484px;
+}
+
+.gs770 INPUT[type="text"].span9,
+.gs770 INPUT[type="password"].span9,
+.gs770 TEXTAREA.span9
+{
+	width:549px;
+}
+
+.gs770 INPUT[type="text"].span10,
+.gs770 INPUT[type="password"].span10,
+.gs770 TEXTAREA.span10
+{
+	width:614px;
+}
+
+.gs770 INPUT[type="text"].span10,
+.gs770 INPUT[type="password"].span10,
+.gs770 TEXTAREA.span11
+{
+	width:679px;
+}
+
+.gs770 INPUT[type="text"].span12,
+.gs770 INPUT[type="password"].span12,
+.gs770 TEXTAREA.span12
+{
+	width:744px;
+}

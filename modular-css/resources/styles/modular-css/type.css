@@ -1,0 +1,162 @@
+
+BODY
+{
+	font-size:13px;
+	line-height:1.2;
+}
+
+A,
+A:hover
+{
+	text-decoration:none;
+	color:#66aaff;
+}
+
+.heading1
+{
+	margin-top:90px;
+	font-size:30px;
+}
+
+.heading2
+{
+	margin-top:75px;
+	font-size:25px;
+}
+
+.heading3
+{
+	margin-top:60px;
+	font-size:20px;
+	font-weight:bold;
+}
+
+.heading4
+{
+	margin-top:36px;
+	font-size:18px;
+	font-variant:small-caps;
+}
+
+.heading1,
+.heading2,
+.heading3
+{
+	margin-bottom:15px;
+	color:#222;
+}
+
+
+.heading1:first-child,
+.heading2:first-child,
+.heading3:first-child
+{
+	margin-top:0;
+}
+
+P
+{
+	margin-top:15px;
+}
+
+P:first-child
+{
+	margin-top:0;
+}
+
+OL
+{
+	list-style-type:decimal;
+	margin-top:15px;
+	margin-left:18px;
+}
+
+UL
+{
+	list-style-type:disc;
+	margin-top:15px;
+	margin-left:15px;
+}
+
+UL LI,
+OL LI
+{
+	margin-top:5px;
+}
+
+OL LI
+{
+	padding-left:-12px;
+}
+
+UL LI
+{
+	padding-left:3px;
+}
+
+UL LI:first-child,
+OL LI:first-child
+{
+	margin-top:0;
+}
+
+BLOCKQUOTE, PRE
+{
+	margin-top:15px;
+	border-left:solid 1px #dbdbdb;
+	padding:15px 15px;
+}
+
+PRE
+{
+	font-family:courier;
+}
+
+TABLE.intext
+{
+	margin-top:15px;
+	width:100%;
+	table-layout:fixed;
+}
+
+TABLE.intext TH
+{
+	text-align:left;
+	padding-bottom:12px;
+	border-bottom:double 3px #dbdbdb;
+
+	font-weight:bold;
+}
+
+TABLE.intext TD
+{
+	text-align:left;
+	padding:7px 0 7px 0;
+	border-bottom:solid 1px #dbdbdb;
+}
+
+TABLE.valign-top TD *
+{
+	vertical-align:top;
+}
+
+BIG
+{
+	font-size:larger;
+}
+
+B,
+.bold
+{
+	font-weight:bold;
+}
+
+SMALL
+{
+	font-size:smaller;
+}
+
+I
+{
+	font-style:italic;
+}

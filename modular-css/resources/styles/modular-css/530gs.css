@@ -1,0 +1,114 @@
+/*
+ * 770gs - 770 Grid System
+ *
+ *  For when you want 12 columns but you don't have 940.
+ *
+ *  Each column is 55 pixels wide, with a 10 pixel gap.
+ */
+
+.gs530 .row
+{
+	margin-left:-10px;
+}
+
+.gs530 .span
+{
+	margin-left:10px;
+}
+
+.gs530 .span1  { width: 35px; }
+.gs530 .span2  { width: 80px; }
+.gs530 .span3  { width:125px; }
+.gs530 .span4  { width:170px; }
+.gs530 .span5  { width:215px; }
+.gs530 .span6  { width:260px; }
+.gs530 .span7  { width:305px; }
+.gs530 .span8  { width:350px; }
+.gs530 .span9  { width:395px; }
+.gs530 .span10 { width:440px; }
+.gs530 .span11 { width:485px; }
+.gs530 .span12 { width:530px; }
+
+.gs530 INPUT[type="text"].span1,
+.gs530 INPUT[type="password"].span1,
+.gs530 TEXTAREA.span1
+{
+	width:9px;
+}
+
+.gs530 INPUT[type="text"].span2,
+.gs530 INPUT[type="password"].span2,
+.gs530 TEXTAREA.span2
+{
+	width:54px;
+}
+
+.gs530 INPUT[type="text"].span3,
+.gs530 INPUT[type="password"].span3,
+.gs530 TEXTAREA.span3
+{
+	width:99px;
+}
+
+.gs530 INPUT[type="text"].span4,
+.gs530 INPUT[type="password"].span4,
+.gs530 TEXTAREA.span4
+{
+	width:144px;
+}
+
+.gs530 INPUT[type="text"].span5,
+.gs530 INPUT[type="password"].span5,
+.gs530 TEXTAREA.span5
+{
+	width:189px;
+}
+
+.gs530 INPUT[type="text"].span6,
+.gs530 INPUT[type="password"].span6,
+.gs530 TEXTAREA.span6
+{
+	width:234px;
+}
+
+.gs530 INPUT[type="text"].span7,
+.gs530 INPUT[type="password"].span7,
+.gs530 TEXTAREA.span7
+{
+	width:279px;
+}
+
+.gs530 INPUT[type="text"].span8,
+.gs530 INPUT[type="password"].span8,
+.gs530 TEXTAREA.span8
+{
+	width:324px;
+}
+
+.gs530 INPUT[type="text"].span9,
+.gs530 INPUT[type="password"].span9,
+.gs530 TEXTAREA.span9
+{
+	width:369px;
+}
+
+.gs530 INPUT[type="text"].span10,
+.gs530 INPUT[type="password"].span10,
+.gs530 TEXTAREA.span10
+{
+	width:414px;
+}
+
+.gs530 INPUT[type="text"].span10,
+.gs530 INPUT[type="password"].span10,
+.gs530 TEXTAREA.span11
+{
+	width:459px;
+}
+
+.gs530 INPUT[type="text"].span12,
+.gs530 INPUT[type="password"].span12,
+.gs530 TEXTAREA.span12
+{
+	width:504px;
+}

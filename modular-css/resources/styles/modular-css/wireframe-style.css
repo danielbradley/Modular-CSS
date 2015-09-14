@@ -1,0 +1,19 @@
+/*
+ *	Insane!
+ *
+
+#header
+{
+	display:none;
+}
+
+#index #header
+{
+	display:block;
+}
+*/
+
+FORM.form
+{
+	border:solid 1px #999;
+}

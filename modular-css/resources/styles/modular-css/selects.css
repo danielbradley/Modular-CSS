@@ -1,0 +1,33 @@
+
+.select,
+.custom_select
+{
+	display:inline-block;
+	overflow:hidden;
+	border-radius:3px;
+	background:#EEEEEE;
+}
+
+SELECT
+{
+	display:block;
+
+	-webkit-appearance:none;
+	   -moz-appearance:none;
+	        appearance:none;
+
+	width:110%;
+	margin:0;
+	height:40px;
+	padding:0 20px 0 10px;
+
+	font-size:inherit;
+	line-height:40px;
+	text-indent:0.01px;
+	text-overflow:' ';
+	vertical-align:middle;
+
+	background:transparent;
+	outline:none;
+
+}

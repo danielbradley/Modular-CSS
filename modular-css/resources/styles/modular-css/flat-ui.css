@@ -1,0 +1,64 @@
+
+INPUT[type='button'].primary,
+INPUT[type='submit'].primary,
+A.button.primary
+{
+	color:white;
+	background:#1ABC9C;
+	border:none;
+}
+
+INPUT[type='button']:hover.primary,
+INPUT[type='submit']:hover.primary,
+A:hover.button.primary
+{
+	background:#48C9B0;
+}
+
+INPUT[type='button'].danger,
+INPUT[type='submit'].danger,
+A.button.danger
+{
+	color:white;
+	background:#E74C3C;
+	border:none;
+}
+
+INPUT[type='button']:hover.danger,
+INPUT[type='submit']:hover.danger,
+A:hover.button.danger
+{
+	background:#EC7063;
+}
+
+INPUT[type='button'].info,
+INPUT[type='submit'].info,
+A.button.info
+{
+	color:white;
+	background:#3498DB;
+	border:none;
+}
+
+INPUT[type='button']:hover.info,
+INPUT[type='submit']:hover.info,
+A:hover.button.info
+{
+	background:#5DADE2;
+}
+
+INPUT[type='button'].inverse,
+INPUT[type='submit'].inverse,
+A.button.inverse
+{
+	color:white;
+	background:#34495E;
+	border:none;
+}
+
+INPUT[type='button']:hover.inverse,
+INPUT[type='submit']:hover.inverse,
+A:hover.button.inverse
+{
+	background:#415B76;
+}

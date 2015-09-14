@@ -1,0 +1,145 @@
+/*
+ * 770gs - 770 Grid System
+ *
+ *  For when you want 12 columns but you don't have 940.
+ *
+ *  Each column is 55 pixels wide, with a 10 pixel gap.
+ */
+
+.gs1180 .row
+{
+	margin-left:-20px;
+}
+
+.gs1180 .span
+{
+	margin-left:20px;
+}
+
+.gs1180 .offset1  { margin-left: 120px; }
+.gs1180 .offset2  { margin-left: 220px; }
+.gs1180 .offset3  { margin-left: 320px; }
+.gs1180 .offset4  { margin-left: 420px; }
+.gs1180 .offset5  { margin-left: 520px; }
+.gs1180 .offset6  { margin-left: 620px; }
+.gs1180 .offset7  { margin-left: 720px; }
+.gs1180 .offset8  { margin-left: 820px; }
+.gs1180 .offset9  { margin-left: 920px; }
+.gs1180 .offset10 { margin-left:1020px; }
+.gs1180 .offset11 { margin-left:1120px; }
+
+.gs1180 .span1  { width: 80px; }
+.gs1180 .span2  { width:180px; }
+.gs1180 .span3  { width:280px; }
+.gs1180 .span4  { width:380px; }
+.gs1180 .span5  { width:480px; }
+.gs1180 .span6  { width:580px; }
+.gs1180 .span7  { width:680px; }
+.gs1180 .span8  { width:780px; }
+.gs1180 .span9  { width:880px; }
+.gs1180 .span10 { width:980px; }
+.gs1180 .span11 { width:1080px; }
+.gs1180 .span12 { width:1180px; }
+
+.gs1180 A.button.span1  { width:  80px; }
+.gs1180 A.button.span2  { width: 180px; }
+.gs1180 A.button.span3  { width: 280px; }
+.gs1180 A.button.span4  { width: 380px; }
+.gs1180 A.button.span5  { width: 480px; }
+.gs1180 A.button.span6  { width: 580px; }
+.gs1180 A.button.span7  { width: 680px; }
+.gs1180 A.button.span8  { width: 780px; }
+.gs1180 A.button.span9  { width: 880px; }
+.gs1180 A.button.span10 { width: 980px; }
+.gs1180 A.button.span11 { width:1080px; }
+.gs1180 A.button.span12 { width:1180px; }
+
+
+
+
+
+
+
+.gs1180 INPUT[type="text"].span1,
+.gs1180 INPUT[type="password"].span1,
+.gs1180 TEXTAREA.span1
+{
+	width:9px;
+}
+
+.gs1180 INPUT[type="text"].span2,
+.gs1180 INPUT[type="password"].span2,
+.gs1180 TEXTAREA.span2
+{
+	width:54px;
+}
+
+.gs1180 INPUT[type="text"].span3,
+.gs1180 INPUT[type="password"].span3,
+.gs1180 TEXTAREA.span3
+{
+	width:99px;
+}
+
+.gs1180 INPUT[type="text"].span4,
+.gs1180 INPUT[type="password"].span4,
+.gs1180 TEXTAREA.span4
+{
+	width:144px;
+}
+
+.gs1180 INPUT[type="text"].span5,
+.gs1180 INPUT[type="password"].span5,
+.gs1180 TEXTAREA.span5
+{
+	width:189px;
+}
+
+.gs1180 INPUT[type="text"].span6,
+.gs1180 INPUT[type="password"].span6,
+.gs1180 TEXTAREA.span6
+{
+	width:234px;
+}
+
+.gs1180 INPUT[type="text"].span7,
+.gs1180 INPUT[type="password"].span7,
+.gs1180 TEXTAREA.span7
+{
+	width:279px;
+}
+
+.gs1180 INPUT[type="text"].span8,
+.gs1180 INPUT[type="password"].span8,
+.gs1180 TEXTAREA.span8
+{
+	width:324px;
+}
+
+.gs1180 INPUT[type="text"].span9,
+.gs1180 INPUT[type="password"].span9,
+.gs1180 TEXTAREA.span9
+{
+	width:369px;
+}
+
+.gs1180 INPUT[type="text"].span10,
+.gs1180 INPUT[type="password"].span10,
+.gs1180 TEXTAREA.span10
+{
+	width:414px;
+}
+
+.gs1180 INPUT[type="text"].span10,
+.gs1180 INPUT[type="password"].span10,
+.gs1180 TEXTAREA.span11
+{
+	width:459px;
+}
+
+.gs1180 INPUT[type="text"].span12,
+.gs1180 INPUT[type="password"].span12,
+.gs1180 TEXTAREA.span12
+{
+	width:504px;
+}

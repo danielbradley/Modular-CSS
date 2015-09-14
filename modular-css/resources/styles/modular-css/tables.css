@@ -1,0 +1,21 @@
+
+TABLE.styled TH,
+TABLE.styled TD
+{
+	text-align:left;
+	line-height:25px;
+	padding:5px 10px;
+}
+
+TABLE.styled TH
+{
+	background:#666;
+	color:#FFF;
+}
+
+TABLE.styled TD
+{
+	border-bottom:solid 1px #ddd;
+}
+
+
