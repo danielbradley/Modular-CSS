@@ -259,7 +259,8 @@ INPUT[type='tel'],
 INPUT[type='text'],
 INPUT[type='time'],
 INPUT[type='url'],
-INPUT[type='week']
+INPUT[type='week'],
+TEXTAREA
 {
 	   border-top:solid 1px #a6a6a6;
 	  border-left:solid 1px #a6a6a6;
